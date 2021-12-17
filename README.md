@@ -12,6 +12,7 @@ Zulips development can be tracked using their Github.
 >[https://github.com/zulip/zulip][github]
 
 
+
 # Zulip Specifications
 - Real time communication
 - Support for emojis 🔥🔥🔥
