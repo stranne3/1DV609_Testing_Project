@@ -11,6 +11,7 @@ The purpose of this project is to get a deeper understanding for how testing wor
 Zulips development can be tracked using their Github.
 >[https://github.com/zulip/zulip][github]
 
+
 # Zulip Specifications
 - Real time communication
 - Support for emojis 🔥🔥🔥
